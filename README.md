@@ -9,6 +9,7 @@ The simulation is created in the form of an **animation** that can be saved as a
 
 Given the **name of a location**, the model can generate a plot of the temperature at that location that updates along with the animation for a closer inspection. 
 
+![](videos/plain_plot.gif)
 ## How to use it
 
 ### The Animation
