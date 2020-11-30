@@ -19,6 +19,10 @@ In the *worldmap.py* file the `temperature_animation()` function will create an 
 In the *worldmap.py* file the `plot_location()` function will generate a plot of the temperature distribution at a location specified by name over a desired period of time. 
 
 ### Possibilities
-All the parameters in the model can easily be altered to simulate various scenarios such as a tidally locked earth. 
+All the parameters in the model can easily be altered to simulate various scenarios such as a tidally locked Earth,
 
+![tidally_locked](videos/tidally_lcoked.gif)
 
+or an Earth with very low thermal inertia.
+
+![low_inertia](videos/low_inertia.gif)
