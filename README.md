@@ -5,11 +5,11 @@ This repository contains Python functions for running a simulation of the global
 
 The simulation is created in the form of an **animation** that can be saved as a video. This animation shows how the **temperature distribution** on the earth changes over time. Depending on the temporal resolution the model can distinctly resolve **diurnal cycle** and the **seasonal cycle**. The location of the **substellar point** is also animated. 
 
-![map](new_videos/plain.gif)
+![map](videos/new_plain.gif)
 
 Given the **name of a location**, the model can generate a plot of the temperature at that location that updates along with the animation for a closer inspection. 
 
-![map_with_plot](new_videos/plain_plot.gif)
+![map_with_plot](videos/new_plain_plot.gif)
 ## How to use it
 
 ### The Animation
