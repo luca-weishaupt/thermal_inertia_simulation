@@ -21,7 +21,7 @@ In the *worldmap.py* file the `plot_location()` function will generate a plot of
 ### Possibilities
 All the parameters in the model can easily be altered to simulate various scenarios such as a tidally locked Earth,
 
-![tidally_locked](videos/tidally_lcoked.gif)
+![tidally_locked](videos/tidally_locked.gif)
 
 or an Earth with very low thermal inertia.
 
