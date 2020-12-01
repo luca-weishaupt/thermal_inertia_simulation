@@ -52,7 +52,6 @@ def temp_tic(T, t, dt, phi, theta, burn_in=0.0, const_albedo=None):
     """
 
     if const_albedo is None:
-        print("this applies")
         # ice-albedo feedback
         if t < burn_in:
             A_cond = 0
